@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/API/">
+    <Project Path="StaffNode.Pro.Api/StaffNode.Pro.Api.csproj" Id="d0aa307b-66f1-4ede-aa16-5c3c18cb90bb" />
+  </Folder>
+  <Folder Name="/src/Core/">
+    <Project Path="StaffNode.Pro.Application/StaffNode.Pro.Application.csproj" Id="6ffcba5d-b690-4267-82eb-d05b8ee78715" />
+    <Project Path="StaffNode.Pro.Domain/StaffNode.Pro.Domain.csproj" Id="82798970-625b-48c0-9299-93563d7ee39b" />
+  </Folder>
+  <Folder Name="/src/Infrastructur/">
+    <Project Path="StaffNode.Pro.Persistence/StaffNode.Pro.Persistence.csproj" Id="d325f7c9-4cd8-4a12-a980-8e5cd713888a" />
+  </Folder>
+  <Folder Name="/src/Test/">
+    <Project Path="StaffNode.Pro.Test/StaffNode.Pro.Test.csproj" Id="8b3e4b0f-4202-47ad-b028-461a8c864e19" />
+  </Folder>
+  <Folder Name="/src/UI/">
+    <Project Path="StaffNode.Pro.UI/StaffNode.Pro.UI.csproj" Id="3e29fc09-c628-4dd3-8cdc-cb2948c9c717" />
+  </Folder>
+</Solution>

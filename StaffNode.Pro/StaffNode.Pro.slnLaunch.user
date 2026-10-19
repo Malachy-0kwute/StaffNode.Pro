@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "StaffNode.Pro.Api\\StaffNode.Pro.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "StaffNode.Pro.UI\\StaffNode.Pro.UI.csproj",
+        "Action": "Start",
+        "DebugTarget": "StaffNode.Pro.UI"
+      }
+    ]
+  }
+]
